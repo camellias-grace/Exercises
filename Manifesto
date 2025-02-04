@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+    <head>
+        <title> end of the line </title>
+    </head>
+    <body>
+        <h1 style="color:darkslategray";> dead end, the sign says </h1>
+        <p> ---------------------------------------------- </p>
+        <p> but I don't want this to be a dead end </p>
+        <p> ---------------------------------------------- </p>
+        <l>
+            <ul style="color: black";> I still have so much to do </ul>
+            <ul style="color: dimgray";> I still have so much to express </ul>
+            <ul style="color: slategray";> I still have so much to experience </ul>
+            <ul style="color: lightslategray";> I still have so much better to become </ul>
+        </l>
+        <h2> but this path ends here </h2>
+        <p> ----------------------------- </p>
+        <p> but I want to keep going</p>
+        <p> ----------------------------- </p>
+        <h1 style="color:darkslategray";> dead end, the sign says</h1>
+
+
+
+
+    </body>
+
+</html>
